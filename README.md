@@ -3,7 +3,7 @@ a HTML 5 game made with pixi js
 
 Game URL: http://secondwarrior.com/cool-games-minesweeper/
 
-LinkedIn profile URL: https://linkedin.com/in/omar-saeed-2510b7a6
+LinkedIn profile URL: https://linkedin.com/in/omar-ibrahim-2510b7a6/
 
 Game description from Wikipedia:
 -------------------------------
